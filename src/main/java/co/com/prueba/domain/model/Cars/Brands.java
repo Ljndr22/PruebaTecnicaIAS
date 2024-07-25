@@ -1,4 +1,4 @@
-package co.com.prueba.domain.model;
+package co.com.prueba.domain.model.Cars;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

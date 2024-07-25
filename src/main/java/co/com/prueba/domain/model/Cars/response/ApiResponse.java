@@ -1,4 +1,4 @@
-package co.com.prueba.domain.model.Util;
+package co.com.prueba.domain.model.Cars.response;
 
 public class ApiResponse {
 
